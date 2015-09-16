@@ -1,26 +1,25 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:26:59.243456
+#+DATE: 2015-08-30 20:26:59.727804
 #+TITLE: 佛頂尊勝陀羅尼別法
 #+PROPERTY: CBETA_ID T19n0974F
 #+PROPERTY: ID KR6j0157
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 19, No. 974F
 #+PROPERTY: VOL 19
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6j0157_T_000-0396b>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0157_T_001-0396b> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.974F¶
-
- 佛頂尊勝陀羅尼別法¶
+No. 974F¶
+佛頂尊勝陀羅尼別法¶
 ¶
 龜茲國僧若那奉　詔譯¶
 
 口問筆綴。授與崇福寺僧普能。因即流布¶
 先畫像。凡欲受持此呪者。先須畫像。畫像須¶
-好絹用白㲲三幅高一丈。彩色中勿用皮膠。¶
+好絹用白[疊*毛]三幅高一丈。彩色中勿用皮膠。¶
 須用香汁。畫人須清淨不喫葷辛。從月一日¶
 起首畫。滿七日須造了。當作甘露山。山中作¶
 雜樹木華菓流泉鳥獸。山中心作禪窟。窟內¶
