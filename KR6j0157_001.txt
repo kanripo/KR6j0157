@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:26:59.243456
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:26
 #+TITLE: 佛頂尊勝陀羅尼別法
 #+PROPERTY: CBETA_ID T19n0974F
 #+PROPERTY: ID KR6j0157
